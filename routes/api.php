@@ -16,3 +16,4 @@ use App\Http\Controllers\API\CommentController;
 */
 
 Route::apiResource('comments', CommentController::class);
+ 
