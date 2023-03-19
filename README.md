@@ -20,7 +20,7 @@ This is for those trying to understand how the basic laravel Rest API for CRUD o
 
 
 ## Issues
-If you come across any issues please [report them here](https://github.com/RabiuKabir/the_api/issues).
+If you come across any issues please [report them here](https://github.com/RabiuKabir/the_api/issues)
 
 ## Contributing
  
