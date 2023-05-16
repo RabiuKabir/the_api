@@ -24,7 +24,7 @@ If you come across any issues please [report them here](https://github.com/Rabiu
 
 ## Contributing
  
-Lets build it together I will appreciate if you consider contributing to this project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future via reachrabiukabir@gmail.com. Thanks all.
+Lets build it together I will appreciate if you consider contributing to this project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future via reachrabiukabir@gmail.com. 
  
  
 
